@@ -73,7 +73,7 @@ z-index: 100;
 }
 .sec {
     position: relative;
-background: #003329;
+background: #cad61d;
 padding: 100px;
 }
 .sec h2{
@@ -88,9 +88,8 @@ padding: 100px;
 
 }
 .footer {font-size: 3em;
-    color: #fff;
+    color: #9b0000;
     margin-bottom: 10px;
-    align-items: center;
-    justify-content: center;
+    
 
 }
